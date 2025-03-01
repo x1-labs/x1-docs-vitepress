@@ -1,0 +1,55 @@
+---
+- text: "Introduction"
+  items:
+    - text: "The Constitution of X1"
+      link: "/the-constitution-of-x1"
+
+- text: "Getting Started"
+  items:
+    - text: "Installation"
+      link: "/getting-started/installation"
+    - text: "Get Funded"
+      link: "/getting-started/get-funded/"
+    - text: "Wallets"
+      link: "/getting-started/wallets/backpack"
+      collapsed: true
+      items:
+        - text: "Backpack"
+          link: "/getting-started/wallets/backpack"
+
+- text: "Core Concepts"
+  items:
+    - text: "Dynamic Base Fees"
+      link: "/core-concepts/dynamic-base-fees"
+    - text: "Zero Cost Votes"
+      link: "/core-concepts/zero-cost-votes"
+
+    - text: "Roadmap"
+      link: "/core-concepts/technical-roadmap/"
+      collapsed: true
+      items:
+        - text: "SVM Capacity Scaling"
+          link: "/core-concepts/technical-roadmap/svm-capacity-scaling"
+        - text: "Homomorphic Encryption"
+          link: "/core-concepts/technical-roadmap/homomorphic-encryption"
+        - text: "Performance Based Leader Selection"
+          link: "/core-concepts/technical-roadmap/performance-based-leader-selection"
+        - text: "Scaling Through Reductionism"
+          link: "/core-concepts/technical-roadmap/scaling-through-reductionism"
+
+- text: "Developing Programs"
+  items:
+    - text: "Create a Program"
+      link: "/developing-programs/create-a-program"
+
+- text: "Operating a Validator"
+  items:
+    - text: "Overview"
+      link: "/operating-a-validator/"
+    - text: "Installation"
+      link: "/operating-a-validator/installing-a-validator"
+    - text: "Management"
+      link: "/operating-a-validator/managing-a-validator"
+    - text: "Publish Validator"
+      link: "/operating-a-validator/publish-a-validator"
+
