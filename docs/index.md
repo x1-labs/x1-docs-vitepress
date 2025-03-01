@@ -14,7 +14,7 @@ X1 is a high-performance, high-throughput, monolithic L1 blockchain built for de
 ## Why X1?
 
 - **Zero-cost voting** – Validators don’t pay for votes, slashing participation costs to just **$5/day**.
-- **Multiple revenue streams** – Earn rewards through voting, delegator commissions, block rewards, and bootstrap incentives. [Set up your validator now](operating-a-validator).
+- **Multiple revenue streams** – Earn rewards through voting, delegator commissions, block rewards, and bootstrap incentives. [Set up your validator now](operating-a-validator/).
 - **Fair transaction pricing** – Uses congestion-based dynamic base fees, similar to Ethereum’s EIP-1559, preventing spam and underpricing.
 - **SVM compatibility** – Seamless deployment for Solana-based applications. [Start building](developing-programs/create-a-program).
 
